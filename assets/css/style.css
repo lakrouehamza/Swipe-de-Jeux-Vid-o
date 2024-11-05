@@ -1,0 +1,23 @@
+
+* img{
+    width: 300px;
+    height: 500px;
+}
+h1{
+    text-align: center;
+}
+.liste1{
+    display: flex; flex-direction: column; margin-top: 4%; margin-left: 40%; width: 20%;text-align: center;
+}
+.liste2{
+    position: absolute; margin-top: 30%; text-align: center; width: 23.6%; background-color:aliceblue;
+}
+.liste3{
+    display: flex; justify-content: space-between;
+}
+.buttonLike{
+background-color: chartreuse; width: 90px; height: 30px;
+}
+.buttondislike{
+background-color: red; width: 90px; height: 30px;
+}
